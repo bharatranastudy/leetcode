@@ -1,1 +1,1 @@
-<h2>game-of-life Notes</h2><hr>[ Time taken: 1m 31s ]
+<h2>game-of-life Notes</h2><hr>[ Time taken: 2m 51s ]
